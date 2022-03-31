@@ -1,0 +1,8 @@
+C:\Users\evand\Desktop\WiProTest\TesteWiPro\TesteWiPro\obj\Debug\net5.0\TesteWiPro.csproj.AssemblyReference.cache
+C:\Users\evand\Desktop\WiProTest\TesteWiPro\TesteWiPro\obj\Debug\net5.0\TesteWiPro.csproj.ResolveComReference.cache
+C:\Users\evand\Desktop\WiProTest\TesteWiPro\TesteWiPro\obj\Debug\net5.0\TesteWiPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evand\Desktop\WiProTest\TesteWiPro\TesteWiPro\obj\Debug\net5.0\TesteWiPro.AssemblyInfoInputs.cache
+C:\Users\evand\Desktop\WiProTest\TesteWiPro\TesteWiPro\obj\Debug\net5.0\TesteWiPro.AssemblyInfo.cs
+C:\Users\evand\Desktop\WiProTest\TesteWiPro\TesteWiPro\obj\Debug\net5.0\TesteWiPro.csproj.CoreCompileInputs.cache
+C:\Users\evand\Desktop\WiProTest\TesteWiPro\TesteWiPro\obj\Debug\net5.0\TesteWiPro.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\evand\Desktop\WiProTest\TesteWiPro\TesteWiPro\obj\Debug\net5.0\TesteWiPro.MvcApplicationPartsAssemblyInfo.cache

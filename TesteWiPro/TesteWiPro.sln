@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteWiPro", "TesteWiPro\TesteWiPro.csproj", "{9360972E-E58F-446C-AAA6-809D5C982BED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio2", "Desafio2\Desafio2.csproj", "{CB96EFDA-2B15-4746-A86C-672C4561B57E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9360972E-E58F-446C-AAA6-809D5C982BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9360972E-E58F-446C-AAA6-809D5C982BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9360972E-E58F-446C-AAA6-809D5C982BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9360972E-E58F-446C-AAA6-809D5C982BED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB96EFDA-2B15-4746-A86C-672C4561B57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB96EFDA-2B15-4746-A86C-672C4561B57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB96EFDA-2B15-4746-A86C-672C4561B57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB96EFDA-2B15-4746-A86C-672C4561B57E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D79D298-1CBF-4FCB-B084-49D39E9EE00A}
+	EndGlobalSection
+EndGlobal
